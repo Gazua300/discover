@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:ital,wght@1,100&display=swap');
+
+body{
+    font-size: 30px;
+    font-family: 'Ysabeau', sans-serif;
+}
+
+p{
+    word-spacing: 1em;
+    font-size: 30px;
+    font-style: italic;
+}
+
+p:hover{
+    word-spacing: normal;
+    text-decoration: underline;
+    cursor: pointer;
+    text-shadow: 3px 8px 3px gray;
+}
